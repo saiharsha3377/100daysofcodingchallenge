@@ -14,7 +14,7 @@ Welcome to the **100 Days Coding Challenge**, an inclusive journey designed for 
 ## What's in it for Us?
 
 - 🎁 **Prizes:** Top 3 participants at the end of the challenge will receive exciting goodies.
-- 🍽️ **Spend a Day with Me:** Winners get the unique opportunity to spend a full day with Adithya Saladi, including lunch and dinner.
+- 🍽️ **Spending a Day with Challenge Organizers:** Winners get the unique opportunity to spend a full day with Adithya Saladi, including lunch and dinner.
 - 🌐 **Job/Internship Referrals:** Winners will be referred to known job/internship opportunities.
 
 ## Beginner-Friendly Approach:
