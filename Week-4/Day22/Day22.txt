@@ -1,0 +1,14 @@
+Day 22
+
+Assignment: Build a To-Do List with Event Handling
+
+Extend your coding skills by building a to-do list application. Utilize DOM manipulation and event handling to add tasks, mark them as completed, and remove them from the list.
+
+Requirements:
+1.Create an HTML structure for the to-do list with input fields and buttons.
+2.Use JavaScript to dynamically add tasks to the list when the user submits the form.
+3.Implement event handling to mark tasks as completed or remove them from the list when the user interacts with them
+
+
+Day 22 challenge Completed Successfully..!!
+I'm delving into the wonders of the DOM in JavaScript! 🌐 From selecting and manipulating elements to mastering events and event handling, I'm building interactive web applications with ease.
