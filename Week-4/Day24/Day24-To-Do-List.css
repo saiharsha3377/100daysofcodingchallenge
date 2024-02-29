@@ -1,0 +1,67 @@
+/* styles.css */
+
+body {
+    background-color: #8f8787;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#task-form {
+    margin-bottom: 30px;
+}
+
+#task-input {
+    padding: 10px;
+    width: 70%;
+    border: none;
+    border-radius: 5px;
+}
+
+#task-form button {
+    padding: 10px;
+    width: 25%;
+    border: none;
+    border-radius: 5px;
+    background-color: #0427f2;
+    color: white;
+}
+
+#task-list {
+    list-style-type: none;
+}
+
+#task-list li {
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+#task-list li button {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+#fetch-tasks {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f40505; /* Blue color */
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#fetch-tasks:hover {
+    background-color: #1565C0; /* Darker blue on hover */
+}
